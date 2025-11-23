@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "testAll": "powershell -Command \"Get-ChildItem *.js | ForEach-Object { node $_.FullName }\""
+   "testAll": "powershell -Command \"Get-ChildItem *.js | ForEach-Object { node $_.FullName }\""
   },
   "dependencies": {
     "chai": "^6.2.1",
