@@ -53,7 +53,7 @@ npm run testAll  #All test run
 
 File   ->                              	Description
 
-invalid_login.js   ->        	Tests invalid login attempts and checks for error messages
+`invalid_login.js`   ->        	Tests invalid login attempts and checks for error messages
 
 register_and_valid_login_logout.js	    ->       Tests user registration, valid login, and logout flows
 
