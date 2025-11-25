@@ -1,4 +1,4 @@
-# OpenCart Selenium WebDriver Automation Tests
+# OpenCart Selenium WebDriver Automation
 
 This project contains **Selenium automation scripts** for the OpenCart website using **Selenium WebDriver**, **JavaScript (Node.js)**. There **Chai** for assertions. All file names and structure remain exactly as in the repository.  OpenCart website:
 
