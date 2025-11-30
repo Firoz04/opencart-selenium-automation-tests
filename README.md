@@ -51,21 +51,15 @@ npm run testAll  #All test run
 
 ## 🔍 Test Case Overview
 
-File   ->                              	Description
-
-`invalid_login.js`   ->        	Tests invalid login attempts and checks for error messages
-
-`register_and_valid_login_logout.js`	    ->       Tests user registration, valid login, and logout flows
-
-`search_product.js`	  ->    Tests product search functionality
-
-`add_to_cart.js`	 ->    Tests adding products to the cart
-
-`wishlist.js`   ->   	Tests wishlist features
-
-`navigation_footer.js`	 ->    Verifies navigation and footer links
-
-`checkout_flow_guest.js`	 ->   Tests guest checkout process
+| File  | Description |
+|---------------|-------------|
+|`invalid_login.js` |	Tests invalid login attempts and checks for error messages  |
+|`register_and_valid_login_logout.js`	    |       Tests user registration, valid login, and logout flows |
+|`search_product.js`	 |   Tests product search functionality |
+|`add_to_cart.js`	 |   Tests adding products to the cart |
+|`wishlist.js`   |  	Tests wishlist features |
+|`navigation_footer.js`	 | Verifies navigation and footer links |
+|`checkout_flow_guest.js`	  |  Tests guest checkout process |
 
 ## 👤 Author
 
