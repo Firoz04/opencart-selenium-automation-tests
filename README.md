@@ -2,7 +2,7 @@
 
 This project contains **Selenium automation scripts** for the OpenCart website using **Selenium WebDriver**, **JavaScript (Node.js)**. There **Chai** for assertions. All file names and structure remain exactly as in the repository.  OpenCart website:
 
- 👉 opencart.abstracta.us/
+ 👉 http://opencart.abstracta.us/
 
 ## 📂 Project Structure
 
